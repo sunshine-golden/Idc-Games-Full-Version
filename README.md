@@ -269,4 +269,4 @@ This repository serves as the official landing page for IDC Games. The software 
 **Get the most recent version of IDC Games today!**
 
 ---
-**Last updated:** 2026-11-06 06:26:06 UTC
+**Last updated:** 2026-11-06 14:53:19 UTC
